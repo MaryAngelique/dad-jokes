@@ -41,6 +41,7 @@ h3 {
 }
 
 .btn {
+    font-family: 'Macondo', cursive;
     background-image: linear-gradient(to right, #616161, #e6e7e8, #616161);
     border: 0;
     border-radius: 10px;
